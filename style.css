@@ -1,0 +1,15 @@
+p {
+  display: none;
+}
+
+div {
+  padding: 1rem;
+}
+
+div.min-klasse p {
+  display: block;
+}
+
+button {
+  background-color: rgba(255, 0, 0, 0.493);
+}
